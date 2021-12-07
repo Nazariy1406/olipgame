@@ -1,0 +1,140 @@
+@charset 'utf-8';
+@media screen and (max-device-width:480px) {
+	body {
+		-webkit-text-size-adjust: none;
+	}
+}
+@media screen and (max-width:800px) {
+	.landing-ico-scrolldown {
+		display: none !Important;
+	}
+	.menu-con-release {
+		width: 100%;
+		border-radius: unset;
+		bottom: 0px;
+		left: 0px;
+		text-align: center;
+		background: rgba(17,21,37,.5);
+		height: 30px;
+		line-height: 30px;
+		padding: unset;
+	}
+	.menu-btn-select {
+		display: none;
+	}
+	.menu-con-divider {
+		display: none;
+	}
+	.menu-btn-backtotop {
+		display: none !important;
+	}
+	.menu-btn-settings {
+		display: none;
+	}
+	.menu-con-outer {
+		margin: auto 30px;
+	}
+	
+	.content-con-inside {
+		margin-right: 20px;
+		margin-left: 20px;
+	}
+	
+	.generic-tx1-button {
+		font-size: 12px;
+	}
+	.spec-con-min {
+		width: 100%;
+		float: unset;
+	}
+	.spec-con-max {
+		width: 100%;
+		float: unset;
+	}
+	.req-item {
+		margin-bottom: 30px;
+	}
+	.landing-con-panel {
+		height: 100px;
+	}
+	.landing-tx1-panel {
+		font-size: 20px;
+		letter-spacing: 8px;
+		text-indent: 8px;
+		line-height: 20px;
+		top: 40px;
+	}
+	.footer-con-inner {
+		margin-right: 20px;
+		margin-left: 20px;
+	}
+	.footer-con-bound {
+		left:0px;
+	}
+	.footer-ico-logo {
+		display:none;
+	}
+	.footer-con-side {
+		width:100%;
+		top: 30px;
+	}
+	.footer-tx1-webmaster {
+	left:0px;
+	}
+	
+	.splitter-con-container {
+		display: unset;
+	}
+	.splitter-txt-wrapper {
+		width:100%;
+	}
+	.splitter-con-right {
+		margin-top: 20px;
+		margin-bottom: 30px;
+		display: unset;
+		width: 100%;
+	}
+	.splitter-con-left {
+		margin: unset;
+		display: unset;
+		width: 100%;
+	}
+	.splitter-img-wrapper {
+		width: 100%;
+		height: 300px;
+	}
+	.splitter-img-container {
+		display:none;
+	}
+	.mini-menu-con-container {
+		width: unset;
+		margin-left: 20px;
+		margin-right: 20px;
+		left: unset;
+	}
+	.binary-tx1-content span {
+		display:none;
+	}
+	.highlight {
+		white-space: unset;
+		border: unset;
+		background: unset;
+	}
+	.windows-highlight {
+		white-space: unset;
+		border: unset;
+		background: unset;
+	}
+@media screen and (max-width:1260px) {
+	.page-con-container {
+		margin: auto 20px;
+	}
+}
+@media screen and (max-width:800px) {
+	.footer-con-sources {
+		display: none;
+	}
+}
+
+
+
